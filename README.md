@@ -22,7 +22,7 @@ Use `Swift Package Manager` to install.
 
 ## How To Use It
 
-Read the original [README](https://github.com/ideawu/Objective-C-RSA/blob/d689ae8ce66086f85b4cb8f749aacb734231cf3b/README.md) file.
+Read the original [README](https://github.com/ideawu/Objective-C-RSA/blob/da88e7d3512b58276d60afc35d7fcd23456c9911/README.md) file.
 
 ## Credits
 
@@ -30,4 +30,4 @@ Created and maintained by [ideawu](https://github.com/ideawu). Refactored and ad
 
 ## License
 
-`RSAEncrypter` is distributed under the terms and conditions of the [LICENSE](https://github.com/ideawu/Objective-C-RSA/blob/d689ae8ce66086f85b4cb8f749aacb734231cf3b/LICENSE).
+`RSAEncrypter` is distributed under the terms and conditions of the [LICENSE](https://github.com/ideawu/Objective-C-RSA/blob/da88e7d3512b58276d60afc35d7fcd23456c9911/LICENSE).
